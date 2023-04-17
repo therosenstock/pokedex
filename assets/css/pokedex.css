@@ -47,12 +47,12 @@
     font-size: .625rem;
     border-radius: 1rem;
 }
-@media screen and (min-width: 380px) {
+@media screen and (min-width: 420px) {
     .pokemons{
         grid-template-columns: 1fr 1fr;
     }
 }
-@media screen and (min-width: 576px) {
+@media screen and (min-width: 768px) {
     .pokemons{
         grid-template-columns: 1fr 1fr 1fr;
     }
